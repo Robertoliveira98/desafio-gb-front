@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import apiClient from "../../../services/api";
 import ListaDestaques from "../../components/ListaDestaques";
 

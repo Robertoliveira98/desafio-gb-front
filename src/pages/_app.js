@@ -1,6 +1,6 @@
 import "@/styles/globals.css";
 import { Sidebar } from "flowbite-react";
-import React, { useEffect, useState, useRef } from "react";
+import React, { useState } from "react";
 import apiClient from "../../services/api";
 
 export default function App({ Component, pageProps }) {
