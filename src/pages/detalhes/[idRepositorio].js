@@ -60,7 +60,7 @@ const Detalhes = (props) => {
               defaultValue={detalhes.estrelas}
               readOnly={true}
             />
-            <Label htmlFor="topicos">Topicos</Label>
+            <Label htmlFor="topicos">Tópicos</Label>
             <TextInput
               type="text"
               id="link"
