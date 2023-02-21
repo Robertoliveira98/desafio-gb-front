@@ -1,4 +1,4 @@
-Next.js App para listar repositórios destaque de 5 linguagens.
+Next.js App para listar os repositórios destaque do GitHub de cinco linguagens
 
 # Instalação
 ```bash
